@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744098050816",
+    "firebase_url": "https://fireapp-58ae0.firebaseio.com",
+    "project_id": "fireapp-58ae0",
+    "storage_bucket": "fireapp-58ae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744098050816:android:9ba2437a84dd806e",
+        "android_client_info": {
+          "package_name": "com.mikemutuma.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744098050816-969p7ilqp9oj6etct23p0g19mu0564mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mikemutuma.fireapp",
+            "certificate_hash": "330212a65750a07778e38966acc4be0e699d7f2e"
+          }
+        },
+        {
+          "client_id": "744098050816-e7ai48k0o98kcjsov6pq2mq2l2le17vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWI0SYXWrWB3n-7ZAaDwCWC37hhhOCZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744098050816-e7ai48k0o98kcjsov6pq2mq2l2le17vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
